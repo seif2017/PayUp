@@ -1,2 +1,2 @@
 # PayUp
-Not funtinnal
+Not functionnal
